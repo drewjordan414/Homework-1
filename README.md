@@ -30,6 +30,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 # Pictures
-![Example Image](/Users/drewjordan/Desktop/bootcamp/homework/Homework-1/assets/images/Screenshot 2023-05-11 at 5.06.21 PM.png)
-![Example Image](/Users/drewjordan/Desktop/bootcamp/homework/Homework-1/assets/images/Screenshot 2023-05-11 at 5.06.34 PM.png)
-![Example Image](/Users/drewjordan/Desktop/bootcamp/homework/Homework-1/assets/images/Screenshot 2023-05-11 at 5.06.41 PM.png)
+![Screenshot of Mockup Website](https://github.com/kumih0/mod-1-refactoring-website/assets/132851569/8da4d64a-1c02-4c32-895b-ee7baa2a2b40)
