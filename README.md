@@ -29,3 +29,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+# Pictures
+![Example Image](/Users/drewjordan/Desktop/bootcamp/homework/Homework-1/assets/images/Screenshot 2023-05-11 at 5.06.21 PM.png)
+![Example Image](/Users/drewjordan/Desktop/bootcamp/homework/Homework-1/assets/images/Screenshot 2023-05-11 at 5.06.34 PM.png)
+![Example Image](/Users/drewjordan/Desktop/bootcamp/homework/Homework-1/assets/images/Screenshot 2023-05-11 at 5.06.41 PM.png)
